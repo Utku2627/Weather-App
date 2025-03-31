@@ -49,7 +49,7 @@ A sleek, dynamic and beautifully animated weather app built with **Flutter**, pr
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather_app.git
+git clone https://github.com/Utku2627/weather_app.git
 cd weather_app
 
 ```
